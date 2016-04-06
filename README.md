@@ -1,3 +1,6 @@
+# Changes:
+* adding support for submodules
+
 # semaphore
 
 Open Source Alternative to Ansible Tower
